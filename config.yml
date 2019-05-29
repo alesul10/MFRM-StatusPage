@@ -25,4 +25,6 @@ params:
       name: The Hive
     - description: The Pulse
       name: Reports
+    - description: HR
+      name: Workday
   timezoneString: ' UTC'
