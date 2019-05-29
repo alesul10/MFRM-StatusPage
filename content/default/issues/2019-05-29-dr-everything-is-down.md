@@ -10,7 +10,6 @@ duration: ''
 resolved_on: 2019-05-29T17:05:57.817Z
 affected:
   - Website
-  - Helpdesk
 twitterFeed: ''
 enableComments: false
 ---
