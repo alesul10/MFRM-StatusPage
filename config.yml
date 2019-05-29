@@ -7,7 +7,9 @@ params:
     <a class='text-grey-darkest' title='Visit example.com'
     href='https://www.example.com/'>Example.com</a> provides open-source
     software for all kind of sectors.
-  description_header: This is a status page.
+  description_header: |-
+    This is a status page.
+    MFRM
   eventsPerPage: 10
   groups:
     - ''
