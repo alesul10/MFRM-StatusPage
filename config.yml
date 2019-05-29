@@ -3,10 +3,7 @@ languageCode: en
 params:
   copyrightHolder: Mattress Firm
   dateFormat: 'January 2, 2006 at 3:04 PM'
-  description_footer: >-
-    <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>Example.com</a> provides open-source
-    software for all kind of sectors.
+  description_footer: ''
   description_header: |-
     This is a status page.
     MFRM
@@ -29,4 +26,7 @@ params:
       name: Reports
     - description: HR
       name: Workday
+    - link: outlook.office.com
+      name: Emails
+    - name: AX
   timezoneString: ' UTC'
